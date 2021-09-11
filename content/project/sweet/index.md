@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "EC-Earth 4 Monitoring"
-summary: "An open-source, Python-based monitoring tool for the [EC-Earth](http://www.ec-earth.org/) climate model. Developed as part of my internship at the [Swedish Meteorological and Hydrological Institute](https://www.smhi.se/en)."
+title: "SWEET x LibPFASST"
+summary: "Ensuring interoperability of [SWEET](https://schreiberx.github.io/sweetsite/), a C++ shallow water equation solver, with [LibPFASST](https://github.com/libpfasst/LibPFASST), a lightweight Fortran implementation of the parallel-in-time [PFASST](https://pfasst.lbl.gov/what-is-pfasst) algorithm. I work on this as part of a student assistant job with [Martin Schreiber](https://www.martin-schreiber.info/), building on the work of Francois Hamon."
 authors: [valentina]
-tags: [climate science,Python]
+tags: [parallel in time, C++, Fortran]
 categories: []
-date: 2020-10-11T16:47:47+02:00
+date: 2021-09-11T16:47:47+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/uwefladrich/scriptengine-tasks-ecearth/"
+external_link: "https://github.com/valentinaschueller/sweet"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
