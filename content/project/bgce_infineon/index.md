@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BGCE Honour's Project"
+title: "BGCE Honor's Project"
 summary: "As part of the [Bavarian Graduate School of Computational Engineering (BGCE)](https://www.bgce.de/), we are working on the parallelization and scalability of a circuit simulator for [Infineon Technologies](https://www.infineon.com/)."
 authors: [valentina]
 tags: [C++]
