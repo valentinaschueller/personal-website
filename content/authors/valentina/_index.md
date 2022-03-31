@@ -62,4 +62,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I study [Computational Science and Engineering](https://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) at the [Technical University of Munich](https://www.tum.de), with a focus on Computational Fluid Dynamics and an interest in Climate Modeling. Next to university, I volunteer in the area of civic and political education.
+I study [Computational Science and Engineering](https://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) at the [Technical University of Munich](https://www.tum.de), with a focus on time integration methods, computational fluid dynamics, and climate modelling. Next to university, I volunteer in the area of civic and political education.
