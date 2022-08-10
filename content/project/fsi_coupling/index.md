@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Error Reduction in Time-Coupled Numerical Simulations"
-summary: "Started off by a seminar course, I'm working on simple but effective convergence analyses of coupling schemes for multiphysics simulations, together with [Benjamin Rodenberg](https://www.in.tum.de/en/i05/people/personen/benjamin-rueth/). More coming soon :)"
+title: "The oscillator example for testing black-box coupling schemes"
+summary: "A small Python program to test convergence order in time and energy conservation for a simple ODE system."
 authors: [valentina]
-tags: [Python, multiphysics coupling]
+tags: [equation coupling, order degradation, Strang splitting, multiphysics, waveform iterations, co-simulation, Python]
 categories: []
 date: 2021-10-04T16:47:47+02:00
 
@@ -40,4 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-Started off by a seminar course, I'm working on simple but effective convergence analyses of coupling schemes for multiphysics simulations, together with [Benjamin Rodenberg](https://www.in.tum.de/en/i05/people/personen/benjamin-rueth/). More coming soon :)
+I developed this small code base together with [Benjamin Rodenberg](https://www.cs.cit.tum.de/en/sccs/people/personen/benjamin-rueth/) following a seminar on multiphysics simulation.
+We used it to study both convergence order in time as well as energy conservation for common black-box coupling schemes.
+
+- [Code available on GitHub](https://github.com/valentinaschueller/oscillator-example)
+- [Full paper available on Scipedia](https://www.scipedia.com/public/Rodenberg_2022a)
