@@ -18,7 +18,7 @@ superuser: true
 #  url: "https://www.tum.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-performance computing and climate science.
+bio: ""
 
 education:
   courses:
@@ -34,19 +34,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:valentina.schueller@tum.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/cashbagage
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/cashbagage
 - icon: github
   icon_pack: fab
   link: https://github.com/valentinaschueller
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/valentina-schueller-315646116/
+  link: https://www.linkedin.com/in/valentina-sch%C3%BCller-315646116/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# DOES NOT WORK!
 # - icon: cv
-#   icon_pack: ai
+#   icon_pack: fab
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -62,4 +63,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I study [Computational Science and Engineering](https://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) at the [Technical University of Munich](https://www.tum.de), with a focus on time integration methods, computational fluid dynamics, and climate modelling. Next to university, I volunteer in the area of civic and political education.
+I study [Computational Science and Engineering](https://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) at the [Technical University of Munich](https://www.tum.de), with a focus on time integration methods, computational fluid dynamics, and climate modelling.
