@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Simulating a Planet"
-summary: "At the [Ferienakademie](https://ferienakademie.de/en/) 2021, we simulated a 2D planet over the span of two weeks. You can have a look at my presentation [here](https://github.com/valentinaschueller/ferienakademie-2021-presentation)."
+summary: "At the [Ferienakademie](https://ferienakademie.de/en/) 2021, we simulated a 2D planet in Python. This presentation summarizes my theoretical contribution."
 authors: [valentina]
 tags: [Python]
 categories: []
