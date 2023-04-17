@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-I developed this small code base together with [Benjamin Rodenberg](https://www.cs.cit.tum.de/en/sccs/people/personen/benjamin-rueth/) following a seminar on multiphysics simulation.
+I developed this small code base together with [Benjamin Rodenberg](https://www.cs.cit.tum.de/sccs/personen/benjamin-rodenberg/) following a seminar on multiphysics simulation.
 We used it to study both convergence order in time as well as energy conservation for common black-box coupling schemes.
 
 - [Code available on GitHub](https://github.com/valentinaschueller/oscillator-example)
