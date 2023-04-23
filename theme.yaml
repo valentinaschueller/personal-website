@@ -1,10 +1,10 @@
-name = "Academic"
-license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
-description = "Use the website builder to personalize your academic resumé with widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
-homepage = "https://wowchemy.com"
-min_version = "0.73"
-tags = ["widgets",
+name: "Academic"
+license: "MIT"
+licenselink: "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
+description: "Use the website builder to personalize your academic resumé with widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
+homepage: "https://wowchemy.com"
+min_version: "0.73"
+tags: ["widgets",
         "resume",
         "portfolio",
         "responsive",
@@ -35,15 +35,15 @@ tags = ["widgets",
         "product",
         "slide"
         ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+features: ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
-[author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+author:
+  name: "George Cushen"
+  homepage: "https://georgecushen.com"
 
 # If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+original:
+  name: ""
+  homepage: ""
+  repo: ""
