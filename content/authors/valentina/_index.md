@@ -37,6 +37,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PSzJ9qQAAAAJ
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@cashbagage
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4579-4217
