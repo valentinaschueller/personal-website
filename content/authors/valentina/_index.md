@@ -22,6 +22,9 @@ bio: ""
 
 education:
   courses:
+  - course: MSc (hons.) in Computational Science & Engineering
+    institution: Technical University of Munich
+    year: 2023
   - course: BSc in Engineering Science
     institution: Technical University of Munich
     year: 2020
@@ -60,4 +63,6 @@ highlight_name: false
 #- Visitors
 ---
 
-I study [Computational Science and Engineering](https://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) at the [Technical University of Munich](https://www.tum.de), with a focus on time integration methods, computational fluid dynamics, and climate modelling.
+I am a PhD student in numerical analysis at the [Centre for Mathematical Sciences at Lund University](https://www.maths.lu.se/english/). 
+My research focuses on coupling algorithms for multiphysics problems, particularly for environmental models involving air and water flows. 
+In this context, I study Schwarz waveform relaxation as a high-order black box coupling method.
