@@ -23,7 +23,7 @@ Both Strang splitting and waveform iterations are discussed with respect to thei
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-09-22T15:50:00
-date_end: 2022-09-22T16:10:00
+#date_end: 2022-09-22T16:10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
