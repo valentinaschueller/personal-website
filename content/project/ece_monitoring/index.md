@@ -4,7 +4,7 @@
 title: "EC-Earth 4 Monitoring"
 summary: "An open-source, Python-based monitoring tool for the [EC-Earth](http://www.ec-earth.org/) climate model. Developed as part of my internship at the [Swedish Meteorological and Hydrological Institute](https://www.smhi.se/en)."
 authors: [valentina]
-tags: [climate science,Python]
+tags: [climate science,Python,ec-earth]
 categories: []
 date: 2020-10-11T16:47:47+02:00
 
