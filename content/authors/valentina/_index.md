@@ -63,6 +63,7 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a PhD student in numerical analysis at the [Centre for Mathematical Sciences at Lund University](https://www.maths.lu.se/english/). 
+I am a PhD student in Numerical Analysis at Lund University, supervised by [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken). 
 My research focuses on coupling algorithms for multiphysics problems, particularly for environmental models involving air and water flows. 
-In this context, I study Schwarz waveform relaxation as a high-order black box coupling method.
+In this context, I study Waveform Relaxation as a high-order black box coupling method.
+See also my profile in [Lund University's Research Portal](https://portal.research.lu.se/en/persons/valentina-schueller).
