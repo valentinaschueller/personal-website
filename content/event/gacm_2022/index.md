@@ -12,13 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Black-box coupling libraries such as preCICE support sophisticated methods to enable accurate and efficient multiphysics simulations (e.g., regarding data mapping or coupling scheme acceleration).
-However, sticking to standard coupling schemes can easily decrease the achievable convergence order of the numerical solution, specifically with respect to time integration; a phenomenon we call order degradation.
-To understand these effects (and possible solutions), we want to study specifically the interaction of coupling schemes and time integration methods. <p>
-
-In this talk, we present and analyze a simple test case of two masses connected with springs; we use it to isolate the impact of the coupling scheme on the overall accuracy and energy conservation of a partitioned simulation. We show issues arising for combinations of traditionally used coupling schemes and common time integration methods. We demonstrate that these two components interact with each other, which can lead to surprisingly good and bad results. Continuing the analysis, we confirm how Strang splitting and waveform iterations can reduce or even prevent order degradation. Additionally, we analyze their impact on energy conservation. <p>
-
-Both Strang splitting and waveform iterations are discussed with respect to their applicability in full-scale multiphysics applications. We finally give an outlook on an extension of the test case to study the convergence of waveform iterations for subcycling and multirate time stepping. This enables us to also cover applications with a multiscale characteristic."
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2022-10-01T15:30:29+02:00
 
-authors: [Valentina Schüller]
+authors: [valentina]
 tags: [waveform iterations, Strang splitting, energy conservation, order degradation]
 
 # Is this a featured talk? (true/false)
@@ -74,3 +68,10 @@ projects: ["fsi_coupling"]
 share: false
 ---
 
+Black-box coupling libraries such as preCICE support sophisticated methods to enable accurate and efficient multiphysics simulations (e.g., regarding data mapping or coupling scheme acceleration).
+However, sticking to standard coupling schemes can easily decrease the achievable convergence order of the numerical solution, specifically with respect to time integration; a phenomenon we call order degradation.
+To understand these effects (and possible solutions), we want to study specifically the interaction of coupling schemes and time integration methods. <p>
+
+In this talk, we present and analyze a simple test case of two masses connected with springs; we use it to isolate the impact of the coupling scheme on the overall accuracy and energy conservation of a partitioned simulation. We show issues arising for combinations of traditionally used coupling schemes and common time integration methods. We demonstrate that these two components interact with each other, which can lead to surprisingly good and bad results. Continuing the analysis, we confirm how Strang splitting and waveform iterations can reduce or even prevent order degradation. Additionally, we analyze their impact on energy conservation. <p>
+
+Both Strang splitting and waveform iterations are discussed with respect to their applicability in full-scale multiphysics applications. We finally give an outlook on an extension of the test case to study the convergence of waveform iterations for subcycling and multirate time stepping. This enables us to also cover applications with a multiscale characteristic.

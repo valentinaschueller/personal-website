@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SWEET x LibPFASST"
-summary: "Ensuring interoperability of [SWEET](https://schreiberx.github.io/sweetsite/), a C++ shallow water equation solver, with [LibPFASST](https://github.com/libpfasst/LibPFASST), a lightweight Fortran implementation of the parallel-in-time [PFASST](https://pfasst.lbl.gov/what-is-pfasst) algorithm. I worked on this as part of a student assistant job with [Martin Schreiber](https://www.martin-schreiber.info/)."
+summary: "Ensuring interoperability of SWEET, a C++ shallow water equation solver, with LibPFASST, a lightweight Fortran implementation of the parallel-in-time PFASST algorithm. I worked on this as part of a student assistant job with Martin Schreiber."
 authors: [valentina]
 tags: [parallel in time, C++, Fortran]
 categories: []

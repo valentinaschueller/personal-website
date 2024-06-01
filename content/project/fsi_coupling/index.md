@@ -4,7 +4,7 @@
 title: "The oscillator example for testing black-box coupling schemes"
 summary: "A small Python program to test convergence order in time and energy conservation for a simple ODE system."
 authors: [valentina]
-tags: [equation coupling, order degradation, Strang splitting, multiphysics, waveform iterations, co-simulation, Python]
+tags: [coupling, order degradation, Strang splitting, multiphysics, waveform iterations, co-simulation, Python]
 categories: []
 date: 2021-10-04T16:47:47+02:00
 

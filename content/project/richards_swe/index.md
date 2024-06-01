@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Coupled Groundwater-Surface Flows"
-summary: "I am studying the numerical properties of coupling algorithms for flood prediction models. This is a project in collaboration with [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken) and [Andreas Dedner](https://warwick.ac.uk/fac/sci/maths/people/staff/andreas_dedner/)."
+summary: "I am studying the numerical properties of coupling algorithms for flood prediction models. This is a project in collaboration with Philipp Birken and Andreas Dedner."
 authors: [valentina]
 tags: [coupling,multiphysics,precice,Python,equation coupling,waveform iterations]
 categories: []

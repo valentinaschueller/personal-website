@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes"
-authors: [Valentina Schüller, Benjamin Rodenberg, Benjamin Uekermann, Hans-Joachim Bungartz]
+authors: [valentina, Benjamin Rodenberg, Benjamin Uekermann, Hans-Joachim Bungartz]
 date: 2022-07-06
 doi: "10.23967/wccm-apcom.2022.038"
 
@@ -13,7 +13,7 @@ publishDate: 2022-08-10T11:07:51+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["Conference Paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "WCCM-APCOM2022"

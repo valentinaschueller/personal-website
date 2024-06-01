@@ -5,14 +5,6 @@ title: "Waveform Relaxation for Coupled Groundwater and Surface Flows"
 event: "13th Workshop on Parallel-in-Time Integration"
 event_url: "https://time-x.eu/pint-2024/"
 location: "Bruges, Belgium"
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract: "Water management projects such as stream bed re-naturalization affect the water table, which is relevant, e.g., for flood prediction. These physical processes can be modeled by coupling the Richards equation for groundwater flow to a shallow water model for rivers or lakes ([Bastian et al., 2012](https://doi-org.ludwig.lub.lu.se/10.1007/978-3-642-25100-9_65)). We analyzed the fully discrete, linearized formulation of this coupling problem, yielding an optimal choice of the relaxation parameter for sequential Dirichlet-Neumann iterations. Here we followed the techniques previously established in [Monge & Birken, 2018](https://doi-org.ludwig.lub.lu.se/10.1007/s00466-017-1511-3). This analysis is closely linked to parallel Dirichlet-Neumann iterations, which are a special case of parallel-in-time waveform relaxation. Waveform relaxation methods have been extensively studied in continuous or semi-discrete formulations. As we will show in this talk, the fully discrete analysis—corresponding to the actual implementation in a numerical model—can give significantly different results. Our theoretical analysis is supported by numerical results for a fully nonlinear test case using [DUNE](https://dune-project.org/) and [preCICE](https://precice.org/).<p>"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2024-02-01T15:30:29+02:00
 
-authors: [Valentina Schüller, Philipp Birken, Andreas Dedner]
+authors: [valentina, Philipp Birken, Andreas Dedner]
 tags: [waveform iterations, Strang splitting, energy conservation, order degradation]
 
 # Is this a featured talk? (true/false)
@@ -68,3 +60,4 @@ projects: ["richards_swe"]
 share: false
 ---
 
+Water management projects such as stream bed re-naturalization affect the water table, which is relevant, e.g., for flood prediction. These physical processes can be modeled by coupling the Richards equation for groundwater flow to a shallow water model for rivers or lakes ([Bastian et al., 2012](https://doi-org.ludwig.lub.lu.se/10.1007/978-3-642-25100-9_65)). We analyzed the fully discrete, linearized formulation of this coupling problem, yielding an optimal choice of the relaxation parameter for sequential Dirichlet-Neumann iterations. Here we followed the techniques previously established in [Monge & Birken, 2018](https://doi-org.ludwig.lub.lu.se/10.1007/s00466-017-1511-3). This analysis is closely linked to parallel Dirichlet-Neumann iterations, which are a special case of parallel-in-time waveform relaxation. Waveform relaxation methods have been extensively studied in continuous or semi-discrete formulations. As we will show in this talk, the fully discrete analysis—corresponding to the actual implementation in a numerical model—can give significantly different results. Our theoretical analysis is supported by numerical results for a fully nonlinear test case using [DUNE](https://dune-project.org/) and [preCICE](https://precice.org/).

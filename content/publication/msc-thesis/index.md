@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Schwarz Waveform Relaxation for a Single Column Climate Model"
-authors: [Valentina Schüller]
+authors: [valentina]
 date: 2023-03-29
 doi: ""
 
@@ -13,7 +13,7 @@ publishDate: 2023-06-02T17:07:51+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["Thesis"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

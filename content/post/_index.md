@@ -1,10 +1,4 @@
 ---
-title: Posts
-
-view: compact
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+title: News
+view: article-grid
 ---
